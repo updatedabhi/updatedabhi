@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://updatedabhi.github.io/mywebsite](https://updatedabhi.github.io/mywebsite)
 
-- 💬 Ask me about **react, node, mongo**
+- 💬 Ask me about **DSA, react, node, mongo**
 
 - 📫 How to reach me **kumarabhishek07565@gmail.com**
 
