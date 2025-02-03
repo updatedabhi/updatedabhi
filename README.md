@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **spring boot, Kafka**
+- 🌱 I’m currently learning **Backend Development with Node.js & Express, Problem-Solving, and Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at [https://updatedabhi.github.io/mywebsite](https://updatedabhi.github.io/mywebsite)
 
